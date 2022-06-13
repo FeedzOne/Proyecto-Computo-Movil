@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RedSocial</string>
+    <string name="welcome">Content de te revoir!</string>
+    <string name="login_to">Connectez-vous pour continuer</string>
+    <string name="password">Mot de passe</string>
+    <string name="email">E-mail</string>
+    <string name="sign_in">S\'identifier</string>
+    <string name="create_new_account">Créer un nouveau compte</string>
+    <string name="add_image">Ajouter une image</string>
+    <string name="name">Nom</string>
+    <string name="sign_up">S\'inscrire</string>
+    <string name="select_user">Sélectionnez l\'utilisateur</string>
+    <string name="type_a_message">taper un message</string>
+    <string name="is_online">En ligne</string>
+    <string name="info">Projet d\'informatique mobile et ubiquitaire par Erick Miguel Paredes Ortega - 350413</string>
+    <string name="enteremail">Entrez l\'e-mail.</string>
+    <string name="validemail">Entrer un email valide.</string>
+    <string name="enterpassword">Entrer le mot de passe.</string>
+    <string name="unablesignin">Impossible de se connecter :(. Vérifiez vos informations d\'identification et votre connectivité réseau.</string>
+    <string name="tokenupdated">Jeton mis à jour avec succès.</string>
+    <string name="unabletoupdatetoken">Impossible de mettre à jour le jeton.</string>
+    <string name="signingout">Déconnecter...</string>
+    <string name="unabletosignout">Impossible de se déconnecter.</string>
+</resources>

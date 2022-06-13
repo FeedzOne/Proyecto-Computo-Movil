@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RedSocial</string>
+    <string name="welcome">Bienvenido!</string>
+    <string name="login_to">Inicia sesión para continuar.</string>
+    <string name="password">Contraseña.</string>
+    <string name="email">Correo.</string>
+    <string name="sign_in">Inicia Sesion.</string>
+    <string name="create_new_account">Crear una cuenta nueva.</string>
+    <string name="add_image">Agregar Imagen.</string>
+    <string name="name">Nombre.</string>
+    <string name="sign_up">Registrarme.</string>
+    <string name="select_user">Seleccionar usuario.</string>
+    <string name="type_a_message" translatable="false">Escribe un mensaje.</string>
+    <string name="is_online">En Linea.</string>
+    <string name="info">Proyecto computo movil y ubicuo por Erick Miguel Paredes Ortega - 350413</string>
+    <string name="enteremail">Ingresa un Correo.</string>
+    <string name="validemail">Ingresa un correo Válido.</string>
+    <string name="enterpassword">Ingresa una contraseña.</string>
+    <string name="unablesignin">No se puede iniciar sesión :(. Verifique sus credenciales y conectividad de red.</string>
+    <string name="tokenupdated">Token actualizada con exito.</string>
+    <string name="unabletoupdatetoken">No se puede actualizar la token.</string>
+    <string name="signingout">Saliendo de la sesión...</string>
+    <string name="unabletosignout">No se puede salir de la sesión.</string>
+</resources>

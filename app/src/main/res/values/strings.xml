@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">RedSocial</string>
+    <string name="welcome">Welcome Back!</string>
+    <string name="login_to">Login to continue.</string>
+    <string name="password">Password.</string>
+    <string name="email">Email.</string>
+    <string name="sign_in">Sign In.</string>
+    <string name="create_new_account">Create New Account.</string>
+    <string name="add_image">Add Image.</string>
+    <string name="name">Name.</string>
+    <string name="sign_up">Sign Up.</string>
+    <string name="select_user">Select User.</string>
+    <string name="type_a_message">type a message.</string>
+    <string name="is_online">Online.</string>
+    <string name="info">Mobile and ubiquitous computing project by Erick Miguel Paredes Ortega - 350413</string>
+    <string name="enteremail">Enter email.</string>
+    <string name="validemail">Enter a valid email.</string>
+    <string name="enterpassword">Enter password.</string>
+    <string name="unablesignin">Unable to Sign In :(. Verify your credentials and network connectivity.</string>
+    <string name="tokenupdated">Token updated successfully.</string>
+    <string name="unabletoupdatetoken">Unable to update token.</string>
+    <string name="signingout">Signing out...</string>
+    <string name="unabletosignout">Unable to sign out.</string>
+</resources>
